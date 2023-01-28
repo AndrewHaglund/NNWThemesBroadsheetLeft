@@ -1,4 +1,5 @@
-# Broadsheet for NetNewsWire
+# Broadsheet Left for NetNewsWire
+Forked from [Stuart Breckenridge](https://github.com/stuartbreckenridge/NNWThemesBroadsheet), I just tweaked a few things: reduced max width and left aligned text.
 
 ## Installation instructions
 - Download the [latest release](https://github.com/stuartbreckenridge/NNWThemesBroadsheet/archive/refs/tags/8.zip)
