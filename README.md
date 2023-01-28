@@ -2,7 +2,7 @@
 Forked from [Stuart Breckenridge](https://github.com/stuartbreckenridge/NNWThemesBroadsheet), I just tweaked a few things: reduced max width and left aligned text.
 
 ## Installation instructions
-- Download the [latest release](https://github.com/stuartbreckenridge/NNWThemesBroadsheet/archive/refs/tags/8.zip)
+- Download the zip file with the fancy green “Code” button
 - Open the enclosed `.nnwtheme` in NetNewsWire
 
 
