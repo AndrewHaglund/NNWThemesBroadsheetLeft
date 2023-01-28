@@ -6,6 +6,7 @@
 
 
 ## Screenshots
+Note these are *slighly* innacurate. Paragraph text is left aligned instead of justified.
 
 ### iPhone
 ![iphone](https://user-images.githubusercontent.com/7046652/133397389-64748ba8-a396-4633-a356-1da8a97a82d9.png)
